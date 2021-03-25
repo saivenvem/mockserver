@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "products
+  "products" : [
   { "id": 1, "name":"Phone"},
   { "id": 2, "name":"Tablets"},
   { "id": 2, "name":"Laptops"},
