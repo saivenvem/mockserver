@@ -18,7 +18,7 @@
   { "id": 2, "name":"TVs"},
   { "id": 2, "name":"ACs"},
   { "id": 2, "name":"Refrigerators"}
-  ]
+  ],
   "weather" : [
 {"MinTemp":2.1,"MaxTemp":23.7,"Rainfall":19.5,"Evaporation":9.0,"Sunshine":7.6,"WindGustDir":"E","WindGustSpeed":48},
 {"MinTemp":7.4,"MaxTemp":39.6,"Rainfall":15.8,"Evaporation":9.7,"Sunshine":8.0,"WindGustDir":"E","WindGustSpeed":11},
