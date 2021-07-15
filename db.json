@@ -30,5 +30,15 @@
 {"MinTemp":1.7,"MaxTemp":34.4,"Rainfall":6.4,"Evaporation":4.6,"Sunshine":5.8,"WindGustDir":"E","WindGustSpeed":27},
 {"MinTemp":18.0,"MaxTemp":32.5,"Rainfall":10.1,"Evaporation":3.5,"Sunshine":10.4,"WindGustDir":"W","WindGustSpeed":60},
 {"MinTemp":17.5,"MaxTemp":37.6,"Rainfall":13.3,"Evaporation":8.2,"Sunshine":3.4,"WindGustDir":"N","WindGustSpeed":36}
-  ]
+  ],
+  "books": [
+      {
+        "title": "The Awakening",
+        "author": "Kate Chopin"
+      },
+      {
+        "title": "City of Glass",
+        "author": "Paul Auster"
+      }
+    ]
 }
