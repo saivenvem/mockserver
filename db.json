@@ -4,29 +4,8 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "products" : [
-  { "id": 1, "name":"Phone"},
-  { "id": 2, "name":"Tablets"},
-  { "id": 2, "name":"Laptops"},
-  { "id": 2, "name":"TVs"},
-  { "id": 2, "name":"ACs"},
-  { "id": 2, "name":"Refrigerators"}
-  ],
   "books": [
-      {
-        "title": "The Awakening",
-        "author": "Kate Chopin"
-      },
-      {
-        "title": "City of Glass",
-        "author": "Paul Auster"
-      }
+      {"title": "The Awakening","author": "Kate Chopin"},
+      {"title": "City of Glass","author": "Paul Auster"}
     ]
 }
